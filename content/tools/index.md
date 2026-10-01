@@ -13,6 +13,7 @@ Welcome to the **Tools Catalog**. This is a curated knowledge base of offensive 
 * **[[tools/cloud-distributed/|Cloud & Distributed Infrastructure]]**: Serverless orchestration and distributed task execution.
 * **[[tools/privilege-escalation/|Privilege Escalation]]**: Local auditing, token impersonation, and LPE vectors.
 * **[[tools/reversing-malware/|Reversing & Malware Analysis]]**: Static analysis, string deobfuscation, and hash identification.
+* **[[tools/blue-team/|Blue Team & Defense]]**: Detection engineering, memory forensics, log enrichment, and incident response.
 * **[[tools/ai-agents/|AI Agents & Automation]]**: Agent harnesses, browser-control tools, and protocol bridges.
 
 ---
