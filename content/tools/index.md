@@ -7,13 +7,13 @@ Welcome to the **Tools Catalog**. This is a curated knowledge base of offensive 
 
 ### Browse by Category
 
-* **[[tools/network-pivoting/|Network Pivoting & Tunneling]]**: Fast tunneling, proxies, and traffic routing utilities.
-* **[[tools/active-directory/|Active Directory & SMB]]**: Domain auditing, LDAP enumeration, and password spraying.
-* **[[tools/recon-osint/|Reconnaissance & OSINT]]**: Network mapping, external perimeter discovery, and data gathering.
-* **[[tools/cloud-distributed/|Cloud & Distributed Infrastructure]]**: Serverless orchestration and distributed task execution.
-* **[[tools/privilege-escalation/|Privilege Escalation]]**: Local auditing, token impersonation, and LPE vectors.
-* **[[tools/reversing-malware/|Reversing & Malware Analysis]]**: Static analysis, string deobfuscation, and hash identification.
-* **[[tools/blue-team/|Blue Team & Defense]]**: Detection engineering, memory forensics, log enrichment, and incident response.
-* **[[tools/ai-agents/|AI Agents & Automation]]**: Agent harnesses, browser-control tools, and protocol bridges.
+- **[[tools/network-pivoting/|Network Pivoting & Tunneling]]**: Fast tunneling, proxies, and traffic routing utilities.
+- **[[tools/active-directory/|Active Directory & SMB]]**: Domain auditing, LDAP enumeration, and password spraying.
+- **[[tools/recon-osint/|Reconnaissance & OSINT]]**: Network mapping, external perimeter discovery, and data gathering.
+- **[[tools/cloud-distributed/|Cloud & Distributed Infrastructure]]**: Serverless orchestration and distributed task execution.
+- **[[tools/privilege-escalation/|Privilege Escalation]]**: Local auditing, token impersonation, and LPE vectors.
+- **[[tools/reversing-malware/|Reversing & Malware Analysis]]**: Static analysis, string deobfuscation, and hash identification.
+- **[[tools/blue-team/|Blue Team & Defense]]**: Detection engineering, AppSec, code auditing, memory forensics, and incident response.
+- **[[tools/ai-agents/|AI Agents & Automation]]**: Agent harnesses, browser-control tools, and protocol bridges.
 
 ---
